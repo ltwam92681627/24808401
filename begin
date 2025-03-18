@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 public static void main(String[] args)
 } catch (IOException e) {
 // do the thing you do
