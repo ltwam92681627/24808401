@@ -1,3 +1,4 @@
+try {
 props.load(fs);
 // do the thing you do
 } catch (IOException e) {
